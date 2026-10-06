@@ -1,0 +1,12 @@
+# 本仓不含源码；以下为保险措施，防止误 add
+*.php
+*.py
+*.js
+*.sql
+*.env
+*.log
+config.php
+runtime/
+vendor/
+node_modules/
+.DS_Store
